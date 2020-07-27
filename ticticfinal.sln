@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ticticfinal", "ticticfinal\ticticfinal.csproj", "{F4DD1C77-77A7-4D18-9104-E55380D08D5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4DD1C77-77A7-4D18-9104-E55380D08D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4DD1C77-77A7-4D18-9104-E55380D08D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4DD1C77-77A7-4D18-9104-E55380D08D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4DD1C77-77A7-4D18-9104-E55380D08D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53673789-0AA6-49E4-A26A-6F86527B5694}
+	EndGlobalSection
+EndGlobal

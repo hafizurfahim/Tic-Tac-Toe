@@ -1,0 +1,10 @@
+E:\C#\ticticfinal\ticticfinal\bin\Debug\ticticfinal.exe.config
+E:\C#\ticticfinal\ticticfinal\bin\Debug\ticticfinal.exe
+E:\C#\ticticfinal\ticticfinal\bin\Debug\ticticfinal.pdb
+E:\C#\ticticfinal\ticticfinal\obj\Debug\ticticfinal.csprojAssemblyReference.cache
+E:\C#\ticticfinal\ticticfinal\obj\Debug\ticticfinal.Form1.resources
+E:\C#\ticticfinal\ticticfinal\obj\Debug\ticticfinal.Properties.Resources.resources
+E:\C#\ticticfinal\ticticfinal\obj\Debug\ticticfinal.csproj.GenerateResource.cache
+E:\C#\ticticfinal\ticticfinal\obj\Debug\ticticfinal.exe
+E:\C#\ticticfinal\ticticfinal\obj\Debug\ticticfinal.pdb
+E:\C#\ticticfinal\ticticfinal\obj\Debug\ticticfinal.csproj.CoreCompileInputs.cache
